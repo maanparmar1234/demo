@@ -1,0 +1,30 @@
+
+
+*{
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+h1{
+    text-align: center;
+}
+form{
+    padding: 100px;
+    box-sizing: content-box;
+    position: relative;
+    box-shadow: 5px;
+    align-items: center;
+    
+
+
+
+}
+.btn{
+    align-items: center;
+}
